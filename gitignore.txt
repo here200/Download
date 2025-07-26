@@ -1,0 +1,2 @@
+# python_temp_files
+/**/__pycache__/*
