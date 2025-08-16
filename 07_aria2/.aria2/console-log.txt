@@ -1,0 +1,18 @@
+2025-08-16 12:27:55.333617 [NOTICE] [Context.cc:310] Downloading 1 item(s)
+2025-08-16 12:27:55.975405 [NOTICE] [HttpResponse.cc:168] CUID#7 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.365750 [NOTICE] [HttpResponse.cc:168] CUID#11 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.381375 [NOTICE] [HttpResponse.cc:168] CUID#8 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.381375 [NOTICE] [HttpResponse.cc:168] CUID#9 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.397004 [NOTICE] [HttpResponse.cc:168] CUID#21 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.397004 [NOTICE] [HttpResponse.cc:168] CUID#18 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.397004 [NOTICE] [HttpResponse.cc:168] CUID#12 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.397004 [NOTICE] [HttpResponse.cc:168] CUID#20 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.412630 [NOTICE] [HttpResponse.cc:168] CUID#15 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.412630 [NOTICE] [HttpResponse.cc:168] CUID#17 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.428257 [NOTICE] [HttpResponse.cc:168] CUID#19 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.428257 [NOTICE] [HttpResponse.cc:168] CUID#10 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.428257 [NOTICE] [HttpResponse.cc:168] CUID#22 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.428257 [NOTICE] [HttpResponse.cc:168] CUID#13 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.459510 [NOTICE] [HttpResponse.cc:168] CUID#14 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:27:56.553268 [NOTICE] [HttpResponse.cc:168] CUID#16 - Redirecting to https://autopatchcn.yuanshen.com/client_app/download/launcher/20250618114128_UtQRy4MyeonyqbV4/pcbackup317/yuanshen_setup_202506091409.exe
+2025-08-16 12:28:55.652061 [NOTICE] [RequestGroup.cc:1214] Download complete: C:/Users/KY/Downloads/yuanshen_setup_202506091409.exe

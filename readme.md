@@ -57,3 +57,9 @@ aria2:
 - index site: https://aria2.github.io/
 - documentation: https://aria2.github.io/manual/en/html/
 
+
+
+configuration:
+
+- refer:
+  - https://github.com/P3TERX/aria2.conf
